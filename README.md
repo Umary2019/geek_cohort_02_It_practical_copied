@@ -7,7 +7,7 @@ This is where interns and collaborators **showcase their profiles, GitHub accoun
 
 ## 🌍 Intern Profiles
 
-Each intern has a profile file in the [`U ~ Khalipa`](./interns/Umary2019.markdown) folder.  
+Each intern has a profile file in the [`U ~ Khalipa`](./interns/Umary2019.md) folder.  
 Click a name below to view their profile:  
 
 - [Mentor](./interns/AdamsGeeky.md)  
